@@ -14,7 +14,7 @@
  *  This is how we can achieve a high throughput
  *  
  *  Pedro Mota Gonzalez - peter.mota@gmail.com 
- *  Started January 2017
+ *  January 2017
  * 
  *  -------------------------------------------------------------
  * 
