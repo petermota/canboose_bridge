@@ -1,1 +1,3 @@
-# blog
+# Canboose bridge
+
+OpenLCB/LCC implementation
